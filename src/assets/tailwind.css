@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.theme-light {
+  --brand-primary: #bcd7d2;
+  --text-primary: #293231;
+  --text-secondary: #092a24;
+}
+
+.theme-dark {
+  --brand-primary: #293231;
+  --text-primary: #bcd7d2;
+  --text-secondary: #9ff4e4;
+}
